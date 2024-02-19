@@ -11,6 +11,8 @@ public class ProjectManager {
 			return frontpage = new FrontPage_POM();
 		else 
 			return frontpage;
+		
+		System.out.println("Hello");
 
 
 	}
